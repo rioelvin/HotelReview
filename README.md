@@ -1,3 +1,4 @@
+# UTS Pemrograman Mobile  
 ```
 Mata Kuliah : Pemrograman Mobile 1
 Dosen       : Donny Maulana, S.Kom., M.M.S.I.
@@ -5,13 +6,13 @@ Nama        : Rio Elvin Prasetya
 NIM         : 312310275
 ```
 ----------------------------------------
-- ### Nama Aplikasi :
-  CheckInAja  
-- ### Package :  
-  ```Java
-  package hotel.review.appandroid;
-  ```
-  Menunjukkan bahwa file ini adalah bagian dari paket aplikasi dengan nama tertentu.
+### Nama Aplikasi :
+CheckInAja  
+### Package :  
+```Java
+package hotel.review.appandroid;
+```
+Menunjukkan bahwa file ini adalah bagian dari paket aplikasi dengan nama tertentu.
 
 # StoryBoard  
 
